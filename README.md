@@ -1,5 +1,7 @@
 # Replay of two real Grothendieck constant bounds
 
+> **Archived.** This repository has moved to [rpinho/math-certificates/c10a](https://github.com/rpinho/math-certificates/tree/main/c10a). It stays online read-only, so existing links and pinned commits keep working.
+
 Receipts from replaying two public certificates on 30 October 2026, for the Tao table entry
 [10a](https://teorth.github.io/optimizationproblems/constants/10a.html).
 
